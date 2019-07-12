@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.com/SADES-Reduction-Earphone-Surround-Headphones/dp/B07H9VC1J9?ref_=Oct_LDealsC_6427814011_2&pf_rd_p=c07bf9a8-9f27-5538-a3f3-d6421586647d&pf_rd_s=merchandised-search-8&pf_rd_t=101&pf_rd_i=6427814011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=ZJVN177QE6BTTXHQHX6Y&pf_rd_r=ZJVN177QE6BTTXHQHX6Y&pf_rd_p=c07bf9a8-9f27-5538-a3f3-d6421586647d"
+}
